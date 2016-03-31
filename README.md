@@ -12,7 +12,7 @@ Simple Weather App using:
 
 ###Getting Started###
 
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Checkout this repo, install dependencies, then start the npm WebPack Server process with the following:
 
 ```
 	> git clone git@github.com:amir5000/WeatherApp.git
