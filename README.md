@@ -10,6 +10,8 @@ Simple Weather App using:
 * react-google-maps
 * react-sparklines
 
+I created this project to learn Redux. 
+
 ###Getting Started###
 
 Checkout this repo, install dependencies, then start the npm WebPack Server process with the following:
