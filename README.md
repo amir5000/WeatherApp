@@ -1,6 +1,6 @@
 # WeatherApp
 
-#### [Link to App] (http://amir5000.github.io/WeatherApp)
+#### [Link to App] (https://amir5000.github.io/WeatherApp/)
 
 Simple Weather App using:
 
